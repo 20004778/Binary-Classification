@@ -1,7 +1,7 @@
 ### EXP NO: 02
 ### DATE: 1/4/22
 # <p align="center"> BINARY CLASSIFICATION</p>
-## Aim:
+## <br>Aim:
 To write a python program to perform binary classification.
 
 ## <br>Equipments Required:
@@ -13,7 +13,7 @@ Binary classification is a form of classification — the process of predicting 
 It is used in many different data science applications, such as Medical Diagnosis, Email analysis, Marketing, etc. 
 For example, in medical diagnosis, a binary classifier for a specific disease could take in symptoms of a patient and predict whether the patient is healthy or has a disease. The possible outcomes of the diagnosis are positive and negative.
 
-## <br>Algorithm
+## <br><br>Algorithm
 1.define dataset.\
 2.summarize dataset shape.\
 3.summarize observations by class label.\
@@ -22,7 +22,6 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 
 
 ## <br>Program:
-
 ```
 Program to implement binary classification.
 Developed by: SURYA R
