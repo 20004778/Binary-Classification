@@ -1,4 +1,4 @@
-### EXP NO: 01
+### EXP NO: 02
 ### DATE: 1/4/22
 # <p align="center"> BINARY CLASSIFICATION</p>
 ## Aim:
