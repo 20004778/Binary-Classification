@@ -12,7 +12,7 @@ To write a python program to perform binary classification.
 Binary classification is a form of classification — the process of predicting categorical variables — where the output is restricted to two classes. It is used in many different data science applications, such as Medical Diagnosis, Email analysis, Marketing, etc. 
 For example, in medical diagnosis, a binary classifier for a specific disease could take in symptoms of a patient and predict whether the patient is healthy or has a disease. The possible outcomes of the diagnosis are positive and negative.
 
-## Algorithm
+## <br>Algorithm
 1.define dataset.\
 2.summarize dataset shape.\
 3.summarize observations by class label.\
@@ -20,7 +20,7 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 5.plot the dataset and color the by class label
 
 
-## Program:
+## <br>Program:
 
 ```
 Program to implement binary classification.
@@ -58,5 +58,5 @@ pyplot.show()
 ![WhatsApp Image 2022-04-19 at 7 31 14 PM (1)](https://user-images.githubusercontent.com/75236145/164031274-ac6ec9ad-aada-4b8a-8484-1ad571cae5f3.jpeg)
 
 
-## Result:
+## <br>Result:
 Thus the python program performed binary classification successfully.
