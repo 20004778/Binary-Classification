@@ -18,13 +18,16 @@ Binary classification is a form of classification — the process of predicting 
 4.summarize first few examples.\
 5.plot the dataset and color the by class label
 
+
 ## Program:
+
 ```
 Program to implement binary classification.
 Developed by: SURYA R
 RegisterNumber: 212220230052
 
 ```
+
 ```python
 from numpy import where
 from collections import Counter
@@ -45,6 +48,9 @@ for label, _ in counter.items():
 pyplot.legend()
 pyplot.show()
 ```
+
+
+
 
 ## Output:
 ![WhatsApp Image 2022-04-19 at 7 31 14 PM (1)](https://user-images.githubusercontent.com/75236145/164031274-ac6ec9ad-aada-4b8a-8484-1ad571cae5f3.jpeg)
