@@ -21,7 +21,7 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 5.plot the dataset and color the by class label
 
 
-## <br>Program:
+## <br><br><br><br><br>Program:
 ```
 Program to implement binary classification.
 Developed by: SURYA R
@@ -54,7 +54,7 @@ pyplot.show()
 
 
 
-## Output:
+## <br>Output:
 ![WhatsApp Image 2022-04-19 at 7 31 14 PM (1)](https://user-images.githubusercontent.com/75236145/164031274-ac6ec9ad-aada-4b8a-8484-1ad571cae5f3.jpeg)
 
 
